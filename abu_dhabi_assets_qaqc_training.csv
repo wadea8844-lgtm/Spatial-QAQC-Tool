@@ -1,0 +1,145 @@
+﻿asset_id,asset_name,category,X,Y,district
+A0001,Valve_001,Valve,54.526251,24.345002,Al Raha
+A0002,Utility Pole_002,Utility Pole,54.418035,24.487294,Khalifa City
+A0003,Streetlight_003,Streetlight,54.513528,24.346357,Al Raha
+A0004,Utility Pole_004,Utility Pole,54.420492,24.460404,Al Raha
+A0005,Sign_005,Sign,54.546165,24.480265,Al Raha
+A0006,Streetlight_006,Streetlight,54.476794,24.395638,Al Raha
+A0007,Manhole_007,Manhole,54.541516,24.40805,Al Raha
+A0008,Streetlight_008,Streetlight,54.608875,24.407319,Airport Area
+A0009,Utility Pole_009,Utility Pole,54.385146,24.509499,Masdar
+A0010,Utility Pole_010,Utility Pole,54.569853,24.485946,Khalifa City
+A0011,Utility Pole_011,Utility Pole,54.61301,24.415707,Masdar
+A0012,Valve_012,Valve,54.575645,24.463704,Al Raha
+A0013,Manhole_013,Manhole,54.543189,24.349165,Masdar
+A0014,Streetlight_014,Streetlight,54.616158,24.511064,Airport Area
+A0015,Valve_015,Valve,54.432273,24.467137,Al Raha
+A0016,Valve_016,Valve,54.456247,24.381901,Khalifa City
+A0017,Manhole_017,Manhole,54.518374,24.374228,Al Raha
+A0018,Utility Pole_018,Utility Pole,54.480188,24.39399,Al Raha
+A0019,Streetlight_019,Streetlight,54.538,24.50857,Al Raha
+A0020,Sign_020,Sign,54.573669,24.501009,Masdar
+A0021,Utility Pole_021,Utility Pole,54.377209,24.522627,Masdar
+A0022,Sign_022,Sign,54.415283,24.439846,Al Raha
+A0023,Utility Pole_023,Utility Pole,54.428869,24.389326,Masdar
+A0024,Utility Pole_024,Utility Pole,54.554224,24.425687,Airport Area
+A0025,Manhole_025,Manhole,54.454119,24.539465,Airport Area
+A0026,Streetlight_026,Streetlight,54.383636,24.349423,Al Raha
+A0027,Sign_027,Sign,54.523136,24.498416,Khalifa City
+A0028,Sign_028,Sign,54.46004,24.459178,Masdar
+A0029,Streetlight_029,Streetlight,54.61248,24.512156,Khalifa City
+A0030,Valve_030,Valve,54.537245,24.447394,Masdar
+A0031,Sign_031,Sign,54.389004,24.426953,Khalifa City
+A0032,Valve_032,Valve,54.607992,24.515171,Al Raha
+A0033,Valve_033,Valve,54.491997,24.361282,Al Raha
+A0034,Utility Pole_034,Utility Pole,54.399738,24.492502,Khalifa City
+A0035,Streetlight_035,Streetlight,54.515726,24.437721,Masdar
+A0036,Valve_036,Valve,54.588468,24.506333,Al Raha
+A0037,Streetlight_037,Streetlight,54.375061,24.515602,Khalifa City
+A0038,Utility Pole_038,Utility Pole,54.550296,24.503205,Al Raha
+A0039,Utility Pole_039,Utility Pole,54.393382,24.435056,Al Raha
+A0040,Sign_040,Sign,54.428915,24.514487,Al Raha
+A0041,Manhole_041,Manhole,54.601518,24.491053,Masdar
+A0042,Valve_042,Valve,54.463738,24.474337,Airport Area
+A0043,Manhole_043,Manhole,54.5939,24.430297,Al Raha
+A0044,Utility Pole_044,Utility Pole,54.376647,24.344207,Al Raha
+A0045,Streetlight_045,Streetlight,54.512994,24.341438,Al Raha
+A0046,Valve_046,Valve,54.377524,24.346283,Khalifa City
+A0047,Sign_047,Sign,54.493681,24.395695,Al Raha
+A0048,Utility Pole_048,Utility Pole,54.500201,24.484671,Airport Area
+A0049,Sign_049,Sign,54.423179,24.434595,Al Raha
+A0050,Valve_050,Valve,54.384525,24.471797,Airport Area
+A0051,Streetlight_051,Streetlight,54.466887,24.512767,Khalifa City
+A0052,Streetlight_052,Streetlight,54.375759,24.485643,Al Raha
+A0053,Manhole_053,Manhole,54.409813,24.447257,Airport Area
+A0054,Streetlight_054,Streetlight,54.407707,24.432526,Airport Area
+A0055,Streetlight_055,Streetlight,54.570086,24.511193,Khalifa City
+A0056,Streetlight_056,Streetlight,54.529558,24.448118,Khalifa City
+A0057,Manhole_057,Manhole,54.600855,24.509739,Airport Area
+A0058,Sign_058,Sign,54.486267,24.382749,Khalifa City
+A0059,Sign_059,Sign,54.402806,24.340431,Masdar
+A0060,Valve_060,Valve,54.600895,24.497026,Airport Area
+A0061,Utility Pole_061,Utility Pole,54.541114,24.486101,Airport Area
+A0062,Streetlight_062,Streetlight,54.400247,24.399342,Khalifa City
+A0063,Utility Pole_063,Utility Pole,54.554474,24.351433,Airport Area
+A0064,Manhole_064,Manhole,54.490741,24.510544,Khalifa City
+A0065,Manhole_065,Manhole,54.609803,24.356022,Khalifa City
+A0066,Manhole_066,Manhole,54.514709,24.475043,Airport Area
+A0067,Manhole_067,Manhole,54.391171,24.518057,Khalifa City
+A0068,Utility Pole_068,Utility Pole,54.521039,24.423845,Masdar
+A0069,Valve_069,Valve,54.603024,24.380852,Al Raha
+A0070,Valve_070,Valve,54.42906,24.366176,Airport Area
+A0071,Streetlight_071,Streetlight,54.442206,24.490373,Khalifa City
+A0072,Streetlight_072,Streetlight,54.479154,24.539691,Khalifa City
+A0073,Manhole_073,Manhole,54.499785,24.441177,Masdar
+A0074,Valve_074,Valve,54.589025,24.515854,Masdar
+A0075,Valve_075,Valve,54.401014,24.506749,Khalifa City
+A0076,Streetlight_076,Streetlight,54.533644,24.45092,Al Raha
+A0077,Utility Pole_077,Utility Pole,54.428761,24.517943,Al Raha
+A0078,Valve_078,Valve,54.430811,24.460966,Al Raha
+A0079,Utility Pole_079,Utility Pole,54.538749,24.510583,Airport Area
+A0080,Streetlight_080,Streetlight,54.425292,24.521632,Khalifa City
+A0081,Streetlight_081,Streetlight,54.524914,24.50587,Khalifa City
+A0082,Valve_082,Valve,54.446725,24.366164,Al Raha
+A0083,Sign_083,Sign,54.55272,24.450336,Khalifa City
+A0084,Manhole_084,Manhole,54.389087,24.52901,Khalifa City
+A0085,Manhole_085,Manhole,54.576995,24.456502,Airport Area
+A0086,Streetlight_086,Streetlight,54.393136,24.401652,Masdar
+A0087,Streetlight_087,Streetlight,54.41462,24.389906,Masdar
+A0088,Sign_088,Sign,54.56283,24.516827,Al Raha
+A0089,Manhole_089,Manhole,54.600699,24.387347,Al Raha
+A0090,Valve_090,Valve,54.589168,24.344957,Airport Area
+A0091,Manhole_091,Manhole,54.568581,24.512813,Masdar
+A0092,Sign_092,Sign,54.401391,24.480256,Khalifa City
+A0093,Sign_093,Sign,54.583234,24.384487,Masdar
+A0094,Manhole_094,Manhole,54.43935,24.499069,Al Raha
+A0095,Valve_095,Valve,54.366153,24.378626,Masdar
+A0096,Valve_096,Valve,54.584732,24.533378,Masdar
+A0097,Utility Pole_097,Utility Pole,54.526785,24.419936,Masdar
+A0098,Valve_098,Valve,54.604202,24.363068,Al Raha
+A0099,Streetlight_099,Streetlight,54.510953,24.53671,Khalifa City
+A0100,Valve_100,Valve,54.515109,24.409137,Airport Area
+A0101,Sign_101,Sign,54.517614,24.442285,Al Raha
+A0102,Streetlight_102,Streetlight,54.426228,24.481757,Al Raha
+A0103,Valve_103,Valve,54.454698,24.353995,Masdar
+A0104,Valve_104,Valve,54.532481,24.364925,Masdar
+A0105,Valve_105,Valve,54.533392,24.405237,Al Raha
+A0106,Sign_106,Sign,54.409878,24.472986,Al Raha
+A0107,Utility Pole_107,Utility Pole,54.520034,24.40019,Khalifa City
+A0108,Utility Pole_108,Utility Pole,54.439007,24.382037,Masdar
+A0109,Manhole_109,Manhole,54.480897,24.428432,Airport Area
+A0110,Manhole_110,Manhole,54.566371,24.531966,Khalifa City
+A0111,Utility Pole_111,Utility Pole,54.433784,24.472771,Masdar
+A0112,Manhole_112,Manhole,54.384281,24.5304,Masdar
+A0113,Streetlight_113,Streetlight,54.418407,24.379826,Khalifa City
+A0114,Streetlight_114,Streetlight,54.423659,24.435027,Airport Area
+A0115,Manhole_115,Manhole,54.467755,24.465953,Airport Area
+A0116,Streetlight_116,Streetlight,54.488538,24.388797,Khalifa City
+A0117,Utility Pole_117,Utility Pole,54.562389,24.383768,Airport Area
+A0118,Streetlight_118,Streetlight,54.373057,24.38984,Airport Area
+A0119,Utility Pole_119,Utility Pole,54.394668,24.432929,Masdar
+A0120,Utility Pole_120,Utility Pole,54.60701,24.518285,Airport Area
+A0121,Utility Pole_121,Utility Pole,,24.429183,Al Raha
+A0122,Sign_122,Sign,54.477018,,Al Raha
+A0123,Valve_123,Valve,,24.493163,Airport Area
+A0124,Manhole_124,Manhole,54.431395,,Khalifa City
+A0125,Valve_125,Valve,,24.386899,Masdar
+A0126,Valve_126,Valve,54.592187,,Khalifa City
+A0127,Manhole_127,Manhole,54.546165,24.480265,Al Raha
+A0128,Manhole_128,Manhole,54.480188,24.39399,Al Raha
+A0129,Manhole_129,Manhole,54.491997,24.361282,Al Raha
+A0130,Sign_130,Sign,54.493681,24.395695,Al Raha
+A0131,Manhole_131,Manhole,54.442206,24.490373,Khalifa City
+A0132,Manhole_132,Manhole,54.584732,24.533378,Masdar
+A0133,Utility Pole_133,Utility Pole,24.425216,54.39413,Airport Area
+A0134,Sign_134,Sign,24.393094,54.47147,Airport Area
+A0135,Streetlight_135,Streetlight,24.453453,54.579064,Airport Area
+A0136,Valve_136,Valve,24.510839,54.484936,Airport Area
+A0137,Sign_137,Sign,24.512549,54.567759,Al Raha
+A0138,Sign_138,Sign,24.40367,54.48741,Khalifa City
+A0139,Sign_139,Sign,24.46702,54.465549,Al Raha
+A0140,Utility Pole_140,Utility Pole,24.507127,54.564911,Khalifa City
+A0141,Sign_141,Sign,55.2,24.45,Unknown
+A0142,Utility Pole_142,Utility Pole,54.45,25.1,Unknown
+A0143,Utility Pole_143,Utility Pole,53.9,24.4,Unknown
+A0144,Streetlight_144,Streetlight,54.5,23.95,Unknown
